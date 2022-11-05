@@ -1,0 +1,35 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path="res://.import/__Boxer2_Backward_004.png-60c0107e7cd0450cd69e7977a41a3e8d.stex"
+metadata={
+"vram_texture": false
+}
+
+[deps]
+
+source_file="res://BoxerSprites/2-Walk/2-Backward/__Boxer2_Backward_004.png"
+dest_files=[ "res://.import/__Boxer2_Backward_004.png-60c0107e7cd0450cd69e7977a41a3e8d.stex" ]
+
+[params]
+
+compress/mode=0
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=0
+flags/repeat=0
+flags/filter=true
+flags/mipmaps=false
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+process/normal_map_invert_y=false
+stream=false
+size_limit=0
+detect_3d=true
+svg/scale=1.0
