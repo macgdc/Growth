@@ -19,12 +19,13 @@ func get_input():
 		velocity.x = lerp(velocity.x, 0, friction)
 
 func face_direction(velocity):
-	if velocity.x > 0:
-		scale.x = -1
-		print(true)
-	else:
-		scale.x = 1
-		print(false)
+	pass
+#	if velocity.x > 0:
+#		scale.x = -1
+#		print(true)
+#	else:
+#		scale.x = 1
+#		print(false)
 
 func _physics_process(delta):
 	get_input()

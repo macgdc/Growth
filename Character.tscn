@@ -38,7 +38,7 @@ frame_9/delay_sec = 0.0
 
 [sub_resource type="CapsuleShape2D" id=2]
 radius = 21.0
-height = 30.0
+height = 40.0
 
 [node name="Character" type="KinematicBody2D"]
 script = ExtResource( 11 )
